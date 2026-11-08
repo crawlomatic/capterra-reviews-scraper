@@ -1,0 +1,24 @@
+{
+  "name": "capterra-reviews-scraper",
+  "version": "1.0.0",
+  "description": "Extract verified software reviews, ratings, pros/cons, and pricing feedback from Capterra (Gartner Digital Markets) at scale.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "capterra",
+    "capterra-scraper",
+    "software-reviews",
+    "gartner",
+    "b2b-saas",
+    "market-research",
+    "apify-actor"
+  ],
+  "author": "Crawlomatic (https://crawlomatic.com)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  }
+}
